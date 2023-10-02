@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+初めての Flutter アプリ - codelabs
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

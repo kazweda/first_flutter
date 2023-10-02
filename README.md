@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Write your first Flutter app
+https://docs.flutter.dev/get-started/codelab
+
 初めての Flutter アプリ - codelabs
 https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#4
 
